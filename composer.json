@@ -1,0 +1,14 @@
+{
+    "require": {
+        "slim/slim": "^3.12"
+    },
+    "autoload": {
+        "psr-4": {}
+    },
+    "scripts": {
+        "serve":"php -S 192.168.1.14:3003"
+    },
+    "config": {
+        "process-timeout": 0
+    }
+}
